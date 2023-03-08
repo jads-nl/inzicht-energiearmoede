@@ -1,0 +1,14 @@
+name: "9331"
+dependencies:
+  - python=3.9
+  - conda-forge::numpy=1.23.*
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - altair
+  - statsmodels
+  - pyarrow
+  - black
+  - pyreadstat
+  - jupyter
